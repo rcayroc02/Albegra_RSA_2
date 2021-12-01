@@ -9,3 +9,8 @@ En el repositorio hay 1 archivo cpp
 -El archivo tiene implementados la generación de primos random y el test de miller rabin, para llamar a las funciones  
 cout << generate_prime(b);  
 cout << MILLER_RABIN(n,s);
+El programa generara un numero primo de acuerdoa los bits
+
+Respuesta 1:
+
+Respuesta 2:
